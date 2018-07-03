@@ -1,3 +1,16 @@
 body{
     margin: 0;
+    background-color: rgb(186, 218, 213);
+    font-family: sans-serif;
+}
+h1 , h2{
+    color: hsl(0, 4%, 5%);
+}
+header{
+    display: flex;
+    flex-direction: column
+    height: 200px;
+}
+nav{
+    margin-top: 40px;
 }
